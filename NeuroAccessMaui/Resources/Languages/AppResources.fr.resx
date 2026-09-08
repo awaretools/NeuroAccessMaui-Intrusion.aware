@@ -2119,7 +2119,7 @@
     <value>Qu’est-ce que {0} ?</value>
   </data>
   <data name="BiometricAuthenticationInfo" xml:space="preserve">
-    <value>L’authentification biométrique utilise vos caractéristiques physiques uniques, comme votre visage ou votre empreinte digitale, pour s’assurer qu’il s’agit bien de vous. Il offre un moyen simple et sécuritaire d’accéder à Neuro-Accès.</value>
+    <value>L’authentification biométrique utilise vos caractéristiques physiques uniques, comme votre visage ou votre empreinte digitale, pour s’assurer qu’il s’agit bien de vous. Il offre un moyen simple et sécuritaire d’accéder à Intrusion Aware.</value>
   </data>
   <data name="FaceIdInfo" xml:space="preserve">
     <value>Face ID reconnaît votre visage pour s’assurer qu’il s’agit bien de vous, offrant ainsi un moyen simple et sécurisé d’accéder à Intrusion Aware.</value>
