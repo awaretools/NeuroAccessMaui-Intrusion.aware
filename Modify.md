@@ -1,4 +1,4 @@
-# Como modificar la app Intrusion Aware
+# Cómo modificar la app Intrusion Aware
 
 Intrusion Aware está estructurada como cualquier app de .NET MAUI en C#. Si exploras el código fuente de la app, notarás que hay una gran cantidad de archivos con extensión XAML. XAML es un lenguaje de marcado que se utiliza para definir interfaces de usuario en aplicaciones de .NET. El punto de entrada de la app se encuentra en `NeuroAccessMaui/App.xaml`; ahí se definen los puntos de entrada de la app y se inicializan los servicios necesarios para que funcione correctamente.
 
